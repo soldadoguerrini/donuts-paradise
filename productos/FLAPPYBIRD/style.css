@@ -1,0 +1,31 @@
+.game-container{
+width: 500px;
+height: 730px;
+position: absolute;
+
+}
+
+.sky{
+	background-color: lightblue;
+	width: 500px;
+	height: 580px;
+	position: absolute;
+}
+
+.ground{
+	background-color: lightgreen;
+width: 500px;
+height: 150px;
+position: absolute;
+top: 580px;
+}
+
+.bird{
+	position: absolute;
+  width: 60px;
+	height: 45px;
+	background-image: url("https://3.bp.blogspot.com/-5TrQypp0xhc/Ub5Omb4IHkI/AAAAAAAAALM/B_vUwXsqgic/s1600/super-arcade-pixels.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+
+}
